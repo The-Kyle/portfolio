@@ -6,7 +6,7 @@ description: "Kyle Lee's Portfolio"
 keywords: "Junior web developer"
 skills: "Web Developer by day, Security Analyst by night"
 meta_author: Kyle Lee
-baseurl: /portfolio_new
+baseurl: /portfolio
 
 # Google webmaster tools
 google_verify:
