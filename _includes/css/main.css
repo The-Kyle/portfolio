@@ -242,10 +242,6 @@ section.success {
     margin: 0;
 }
 
-#portfolio .portfolio-grid-img {
-    max-width: 900px;
-    max-height: 650px;
-}
 
 #portfolio * {
     z-index: 2;
