@@ -5,8 +5,8 @@ date: 2017-10-01
 img: minesweeper.jpg
 alt: image-alt
 project-date: Oct 2017
-client: Start Bootstrap
+client: Personal Side-project
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Inspired by local Meetup by ShiftKey Labs, I tried to implement simple minesweeper game by ReactJS, with in-class understandings at NSCC. This side-project significantly enhanced my understandings of ReactJS and modern JavaScript libraries. Used tools includes - NodeJS, VisualStudio Code, create-react-app.
 
 ---
