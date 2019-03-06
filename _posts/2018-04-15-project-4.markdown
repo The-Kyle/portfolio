@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2018-04-15
+img: ereader.jpg
+alt: image-alt
+project-date: April 2018
+client: School Project
+category: JavaScript, CSS
+description: Predefined ebook reader implemented with JavaScript. Used tools includes - JavaScript, WebStorm. Online demo can be reached at <a href="https://the-kyle.github.io/ereader/" target="_blank">E-Reader_on_Github</a>.
+
+---
