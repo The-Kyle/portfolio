@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2018-09-30
+img: tvmaze.jpg
+alt: image-alt
+project-date: Sep 2018
+client: School Project
+category: ReactJS
+description: TV show search engine which utilizes an external search API by TVMaze. Used tools includes - NodeJS, VisualStudio Code, create-react-app. Online demo can be reached at <a href="https://the-kyle.github.io/tvmaze/" target="_blank">TVMaze_on_Github</a>.
+
+---
