@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2019-01-01
+img: wp1.jpg
+alt: image-alt
+project-date: Jan 2019
+client: School Project
+category: Wordpress, PHP
+description: Class assignment with WordPress. Used tools includes - WordPress, PHPStorm. Github repository can be reached at <a href="https://the-kyle.github.io/wp1/" target="_blank">WordPress1_on_Github</a>.
+
+---
