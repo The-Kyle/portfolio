@@ -247,6 +247,16 @@ section.success {
     z-index: 2;
 }
 
+.blink_me {
+    animation: blinker 1s linear infinite; }
+@keyframes blinker {
+  0% {
+    visibility: visible; }
+  50% {
+    visibility: hidden; }
+  100% {
+    visibility: hidden; } }
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
