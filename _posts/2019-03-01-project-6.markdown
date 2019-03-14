@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2019-03-01
+img: spaceshooter.jpg
+alt: image-alt
+project-date: Mar 2019
+client: School Project
+category: Webgame Development
+description: Space shooting webgame with CreateJS, which coded as a school assignment. Used tools includes - CreateJS, VisualStudio Code. Online demo can be reached at <a href="https://the-kyle.github.io/spaceshooter/" target="_blank">SpaceShooter_on_Github</a>.
+
+---
