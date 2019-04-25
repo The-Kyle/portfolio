@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2018-04-25
+img: reactnative.jpg
+alt: image-alt
+project-date: April 2018
+client: School Project
+category: React Native
+description: Gap analysis presentation on React Native. Submitted PDF file can be downloaded at <a href="https://the-kyle.github.io/portfolio/static/WEBD3000-GapAnalysis-Kyle.pdf" target="_blank">WEBD3000 Presentation</a>.
+
+---
