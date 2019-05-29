@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2019-05-01
+img: soccer.jpg
+alt: image-alt
+project-date: May 2019
+client: Toy Project 
+category: ReactJS, MeteorJS, NodeJS, MongoDB, Chart.js
+description: Virtual soccer team management tool developed by ReactJS and Meteor. Online demo can be reached at <a href="https://soccer-app.azurewebsites.net" target="_blank">Soccer App</a>.
+
+---
