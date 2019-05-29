@@ -2,7 +2,7 @@
 
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Hello! My name is Kyle,", "a web developer student."
+    "Hello! My name is Kyle.", "NSCC Class of 2019 Graduate"
   );
   
   var iSpeed = 150; // time delay of print out

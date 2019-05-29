@@ -1,5 +1,5 @@
 # Site settings
-title: Kyle Lee's Portfolio
+title: Kyle Kyeongwon Lee's Portfolio
 email: oejava@gmail.com
 url: https://the-kyle.github.io/portfolio/
 description: "(Kyle) Kyeongwon Lee's Portfolio"
@@ -35,7 +35,7 @@ color:
 footer:
   copyright: Kyle Lee
   location: Halifax, Nova Scotia
-  social: Proud graduate of NSCC class of 2019
+#  social: NSCC Class of 2019 Graduate
 #  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
