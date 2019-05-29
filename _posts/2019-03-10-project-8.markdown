@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2019-03-10
+img: weather-wpa.jpg
+alt: image-alt
+project-date: Mar 2019
+client: School Project 
+category: Progressive WebApp Development
+description: Simple weather app using Progressive Web Apptechniques, including responsive design, service worker to precache the app resources (HTML, CSS,JS, images), and caching the weather data at runtime to improve performance. Online demo can be reached at <a href="https://kyle-1547488127203.firebaseapp.com/" target="_blank">Progressive WebApp on Firebase</a>.
+
+---
