@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2019-04-10
+img: NSCC-Coursemap.jpg
+alt: image-alt
+project-date: Apr 2019
+client: School Project 
+category: ASP.NET, Swagger API, Azure
+description: College course offerings map implemented with ASP.NET. Online demo can be reached at <a href="https://coursemap2019.azurewebsites.net/courseofferings" target="_blank">NSCC Courseofferings on Microsoft Azure</a>, <a href="https://coursemap2019.azurewebsites.net/api" target="_blank">NSCC Coursemap API on Microsoft Azure</a>.
+
+---
