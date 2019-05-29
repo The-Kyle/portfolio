@@ -2,7 +2,7 @@
 title: Kyle Lee's Portfolio
 email: oejava@gmail.com
 url: https://the-kyle.github.io/portfolio/
-description: "Kyle Lee's Portfolio"
+description: "(Kyle) Kyeongwon Lee's Portfolio"
 keywords: "Junior web developer"
 skills: "Web Developer by day, Security Analyst by night"
 meta_author: Kyle Lee
@@ -35,7 +35,7 @@ color:
 footer:
   copyright: Kyle Lee
   location: Halifax, Nova Scotia
-#  social: Around the Web
+  social: Proud graduate of NSCC class of 2019
 #  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
