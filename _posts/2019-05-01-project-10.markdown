@@ -6,7 +6,7 @@ img: soccer.jpg
 alt: image-alt
 project-date: May 2019
 client: Toy Project 
-category: ReactJS, MeteorJS, NodeJS, MongoDB, Chart.js
-description: Virtual soccer team management tool developed by ReactJS and Meteor. Online demo can be reached at <a href="https://soccer-app.azurewebsites.net" target="_blank">Soccer App</a>.
+category: ReactJS, MeteorJS, NodeJS, MongoDB, Chart.js, Heroku, Mlab
+description: Virtual soccer team management tool developed by ReactJS and Meteor. Online demo can be reached at <a href="http://http://soccer-k.herokuapp.com/" target="_blank">Soccer App hosted on Heroku/Mlab</a>. Please note it will take a few seconds to load, and you have to create your own temporary account to test the whole features.
 
 ---
